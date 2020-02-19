@@ -58,5 +58,5 @@ class InstaBot:
         return names
 
 
-my_bot = InstaBot('_aaronjack', pw)
+my_bot = InstaBot('costaffelipe', pw)
 my_bot.get_unfollowers()
